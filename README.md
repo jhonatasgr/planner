@@ -1,6 +1,3 @@
-<div align="center">
-<img src="![logo](https://github.com/jhonatasgr/planner/assets/62631029/58ba4c75-1fae-4329-828d-9dbe3cc1376f)" width="0px" />
-</div>
 
 ![logo](https://github.com/jhonatasgr/planner/assets/62631029/58ba4c75-1fae-4329-828d-9dbe3cc1376f)
 # Travel Planner
