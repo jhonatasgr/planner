@@ -1,3 +1,8 @@
+<div align="center">
+<img src="![logo](https://github.com/jhonatasgr/planner/assets/62631029/58ba4c75-1fae-4329-828d-9dbe3cc1376f)" width="0px" />
+</div>
+
+![logo](https://github.com/jhonatasgr/planner/assets/62631029/58ba4c75-1fae-4329-828d-9dbe3cc1376f)
 # Travel Planner
 
 Travel Planner is a web application that allows you to create and plan trips, invite friends to join you, and create a schedule of activities for your trip. The application is built using ReactJS for the frontend and NodeJS for the backend.
